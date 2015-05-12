@@ -23,3 +23,5 @@ Comments
     - [Swagger-UI](https://github.com/swagger-api/swagger-ui) 
     - [Repo](https://github.com/ilayze/Swagger-ui-sw-modeling)
 
+4. @avitaler & @stash2020 & @no-choice  18/6
+   - [3D JavaScript library](https://github.com/avitaler/jce-sw-modeling-project/wiki/Project-Proposal)
