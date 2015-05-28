@@ -32,7 +32,9 @@ Under Presentation Date:
 
 18/6:
 5. @avitaler & @stash2020 & @no-choice
- -[threejs site](http://threejs.org/)
+ -[Rhino site](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
+ -[Rhino GitHub] (https://github.com/mozilla/rhino)
+ -[Rhino Wiki] (http://en.wikipedia.org/wiki/Rhino_%28JavaScript_engine%29)
  -[Repo](https://github.com/avitaler/jce-sw-modeling-project/wiki/Project-Proposal)
 
 ---
